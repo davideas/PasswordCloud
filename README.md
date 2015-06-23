@@ -2,25 +2,32 @@
 
 Password Cloud is an Android App that helps you to keep all your important [secret] information and accounts of any kind in one place in smart and secure way. In the future there will be also a Win &amp; iPhone App neitherless a Computer/Web App.
 
+`NOTE: This page is for Issue tracking of product in Beta testing.`
+
+`Password Cloud is not on the Market yet!`
+
 ### Implemented so far
 - Remember one password to keep all others: Web, email &amp; computer accounts; Wi-Fi passwords; PINs &amp; credit cards; Utility Companies information &amp; all general information you desire keep safe.
-- Your passwords are protected with 256-bit Advanced Encryption Standard (AES).<br/>Optionally you can activate the innovative <i>Only Online</i> function to never save locally your passwords.<br/>Not less the <i>Silent Self-Erase</i> option.
-- Advanced database utilities: Import, Export
+- Your passwords are protected with 256-bit Advanced Encryption Standard (AES).
+- Advanced database utilities: Import, Export, <i>Silent Self-Erase</i> option.
 - Innovative Android™ Material Design &amp; App usability
 - Type of login: password
 
 ### To be done
 - Multi type of login: pin, pattern &amp; digital finger reader (only for Samsung™ devices).
 - Synchronize your encrypted database to your favorite cloud service and restore it in case of a device change or loss.
+- Optionally you can activate the innovative <i>Only Online</i> function to never save locally your passwords.
 - Reuse the database from your personal computer or different devices and keep it synchronized among them.
 - Advanced database utilities: Restore, Merge &amp; Automatic Backup.
 - Internal Help and FAQ.
 - Show Wi-Fi registered accounts in your device.
+- Autofill fields into browser.
+- ... and much more!
 
 # Change Log
 
 ### v0.28.0 beta of 19/06/2015
-##### Main feature
+##### Main features
 - Drawer with system labels and item list on main page
 - Advanced search feature: deep search on fields, show first match
 - Add/modify/remove items and templates
@@ -35,7 +42,7 @@ Password Cloud is an Android App that helps you to keep all your important [secr
 - Advanced customizable Lock and Autolock when leaving App
 - Database Utilities: Change primary password; Import/Export in clear; Erase; Customizable silent SelfErase at login
 
-##### Sub feature
+##### Sub features
 - <i>Presentation:</i> Database creation at first execution
 - <i>Presentation:</i> Import database enabled at first execution
 - <i>Dialog:</i> About with thanks (libraries used) + © info + ChangeLog
