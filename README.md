@@ -98,5 +98,5 @@ Undisclosed
 # Realease date
 Undisclosed
 
-# Licence
+# No Licence
 `Copyright © 2015 Davide Steduto. All rights reserved`
