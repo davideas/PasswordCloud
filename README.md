@@ -1,5 +1,5 @@
 # Password Cloud
----
+
 Password Cloud is an Android App that helps you to keep all your important [secret] information and accounts of any kind in one place in smart and secure way. In the future there will be also a Win &amp; iPhone App neitherless a Computer/Web App.
 
 ### Implemented so far
@@ -18,7 +18,7 @@ Password Cloud is an Android App that helps you to keep all your important [secr
 - Show Wi-Fi registered accounts in your device.
 
 # Change Log
-***
+
 ### v0.28.0 beta of 19/06/2015
 ##### Main feature
 - Drawer with system labels and item list on main page
@@ -90,3 +90,6 @@ Undisclosed
 
 # Realease date
 Undisclosed
+
+# Licence
+`Copyright © 2015 Davide Steduto. All rights reserved`
