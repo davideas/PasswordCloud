@@ -25,6 +25,14 @@ Password Cloud is an Android App that helps you to keep all your important [secr
 - ... and much more!
 
 # Change Log
+### v0.29.0 beta of 05/07/2015
+- Added multi selection and multi deletion on main list with &quot;user learns Selection&quot; on top of it
+- Added restore deleted item from Bin (if the item is duplicated in label it is NOT restored)
+- Added item counters on subtitle of each item list
+- Resolved Database creation problem. Some devices reported "Unsupported Date format". New supported Date formats are: yyyy-MM-dd HH:mm:ss z (default) - yyyy-MM-dd HH:mm:ss Z - yyyy-MM-dd HH:mm:ss
+- Fixed a bug that recalculated the Item color after screen rotation on ColorPicker dialog and triggered the Database saving
+- Fixed double creation of Drawer instance after screen rotation
+- Fixed some visual bugs and improved navigation if ActionMode is active
 
 ### v0.28.0 beta of 19/06/2015
 ##### Main features
