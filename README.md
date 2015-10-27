@@ -42,7 +42,7 @@ Password Cloud is an Android App that helps you to keep all your important [secr
 - <i>Presentation:</i> Fixed immersive mode
 - Fixed several visual and background bugs
 
-### v0.35.0 beta" changeDate="25 September 2015">
+### v0.35.0 beta of 25 September 2015
 - Label selection after logged in
 - Cloud selection, configuration for Dropbox cloud
 - Cloud synchronization, two-way synchronization
